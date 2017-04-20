@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+d:\damian\ath\grafika\zaj 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\damian\ath\grafika\zaj 2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\Damian\ATH\Grafika\zaj 2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Damian\ATH\Grafika\zaj 2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
